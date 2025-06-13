@@ -9,7 +9,7 @@ public class TicketTest {
 	public static void main(String[] args) {
 		
 		// set test parameters
-		int totalTickets = 5;
+	    int totalTickets = 5;
 	    int totalCustomers = 10;
 	    
 	    // create shared ticket pool
